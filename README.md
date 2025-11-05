@@ -1,3 +1,3 @@
 # workforce-data-analysis
 
-This project aims to assess current staff levels, the impact of reduced staff levels, and provide recommendations. Refer to the report for more information.
+This project aims to evaluate current staffing levels, analyse effects of reduced staff numbers, and provide recommendations based on findings. Please refer to the report for further details.
